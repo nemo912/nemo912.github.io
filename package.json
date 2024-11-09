@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "matter-js": "^0.20.0",
+    "parcel": "^2.12.0"
+  }
+}
